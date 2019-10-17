@@ -1,0 +1,18 @@
+
+
+<div id="footer" class="row-flex">
+<div class="col-flex qty">
+    <span class="text-large">Qty {{qty}}</span>
+    <span class="text-large">Total {{cartTotal}}</span>
+</div>
+<div class="checkout">
+    <button class="text-large button-style" (click)="checkout()">Checkout</button>
+
+</div>
+    <app-custom-modal
+      [show]="showModal"
+      [checkoutMessage]="checkoutMessage"
+      [cartTotal]="cartTotal"
+    >
+    </app-custom-modal>
+  </div>

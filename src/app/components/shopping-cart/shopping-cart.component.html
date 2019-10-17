@@ -1,0 +1,25 @@
+<div>
+    <div class="products row-flex" *ngFor="let product of productList; let i = index">
+        <div class="col-flex">
+          <div  class="col-flex" >
+            <div class="img-size">
+              <img [src]="getImageLocation(product)">
+            </div>
+            <div class="product-details" style="text-align: center;"> {{product.discount}}% OFF</div>
+          </div>
+        </div>
+          <div class="col-flex">
+            <div class="brand">{{product.brand}}</div>
+            <div class="product-details">{{product.product}}</div>
+            <div class="product-details">{{product.weight}} {{product.measure}}</div>
+            <div class="product-details">MRP {{product.mrp}}</div>
+            <div class="product-details"><b>Rs {{product.amount}}</b></div>
+            <div class="row-flex">
+              <button class="text-medium" (click)="onPlus(i,true)">ADD CART </button>
+              <div class="icon text-large" id="minus" (click)="onMinus(i)"></div>
+              <span class="text-large" style="margin: 8px;">{{product.quantity}}</span>
+              <div class="icon text-large" id="plus" (click)="onPlus(i)"></div>
+            </div>
+          </div>
+      </div>
+</div>

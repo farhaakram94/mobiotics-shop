@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+.col-flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.row-flex{
+    display: flex;
+}
+
+.text-large{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.text-medium{
+    font-size: large;
+    font-weight: bold;
+}
+
+#plus:before {
+    content: '+';
+  }
+
+  #minus:before {
+    content: '-';
+  }
+
+  #close:before {
+    content: 'x';
+  }
+
+
+  .icon:before {
+    content: '';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #64CF34;
+    color: black;
+  }
+
+

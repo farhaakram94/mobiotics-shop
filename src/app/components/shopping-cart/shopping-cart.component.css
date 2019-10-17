@@ -1,0 +1,38 @@
+
+.products{
+    flex-grow: 1;
+    border-bottom: 1px solid black;
+    margin: 5px
+}
+
+img {
+    max-width: 100%;
+    height: 20vh;
+    width: auto\9; /* ie8 */
+    display:block;
+    margin:auto;
+}
+
+.img-size{
+    width: 30vw;
+    padding: 5px;
+
+}
+
+.brand{
+  font-size: xx-large;
+  font-weight: bold;
+  color: #4B6B34;
+}
+
+.product-details{
+  font-size: x-large ;
+}
+
+
+  button{
+    margin: 6px;
+    padding: 0 2vw;
+    background: #64CF34;
+    border-radius: 8px;
+  }

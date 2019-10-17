@@ -1,0 +1,10 @@
+<div class="modal" [ngStyle]="{display: show ? 'block' : 'none'}">
+    <div class="overlay" (click)="closeCallback()"></div>
+    <div class="modal_content">
+      <h2>Cart Total : Rs.{{cartTotal}}</h2>
+        <h2>{{checkoutMessage}}</h2>
+        
+      <div class="icon close_modal" id="close" (click)="closeCallback()"></div>
+      
+    </div>
+  </div>
