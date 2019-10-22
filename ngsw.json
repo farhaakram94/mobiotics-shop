@@ -1,0 +1,102 @@
+{
+  "configVersion": 1,
+  "timestamp": 1571728612457,
+  "index": "https://farhaakram94.github.io/mobiotics-shop/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://farhaakram94.github.io/mobiotics-shop/favicon.ico",
+        "https://farhaakram94.github.io/mobiotics-shop/index.html",
+        "https://farhaakram94.github.io/mobiotics-shop/main-es2015.31d535e15ad28cadbf9f.js",
+        "https://farhaakram94.github.io/mobiotics-shop/main-es5.31d535e15ad28cadbf9f.js",
+        "https://farhaakram94.github.io/mobiotics-shop/manifest.webmanifest",
+        "https://farhaakram94.github.io/mobiotics-shop/polyfills-es2015.0ef207fb7b4761464817.js",
+        "https://farhaakram94.github.io/mobiotics-shop/polyfills-es5.2b9ce34c123ac007a8ba.js",
+        "https://farhaakram94.github.io/mobiotics-shop/runtime-es2015.e8a2810b3b08d6a1b6aa.js",
+        "https://farhaakram94.github.io/mobiotics-shop/runtime-es5.e8a2810b3b08d6a1b6aa.js",
+        "https://farhaakram94.github.io/mobiotics-shop/styles.09043bb43a33de8cd0fa.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-128x128.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-144x144.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-152x152.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-192x192.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-384x384.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-512x512.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-72x72.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-96x96.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/inventory.json",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/amul-cheese.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/amul-ghee.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/ashirvaad-atta.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/california-almonds.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/dabur-honey.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/kellogs-chocos.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/nestle-milkmaid.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/parrys-sugar.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/tata-salt.png",
+        "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/tropicana-juice.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/inventory.json": "4ebe80969700674b742335045917efa6018e1137",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/amul-cheese.png": "531f7ce6119748709d6628044d4bb7ab4bdecea5",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/amul-ghee.png": "93e9283ea224dc1230466a82f92b57fcdef1a922",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/ashirvaad-atta.png": "f81fe5a82c65c4526a8caf586d3c5d96c61c688e",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/california-almonds.png": "850bbe0f91629687cd0ba74eeef3709af36f428f",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/dabur-honey.png": "0b27e35c0522cac24ff5a3a0938979dbe1be4df9",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/kellogs-chocos.png": "a80f98227e4a9a59bac866a0a9d60c1d23a2ebe6",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/nestle-milkmaid.png": "de1bf2b4efbd77746d5a51cb7b6aa40d121971a9",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/parrys-sugar.png": "3010ec310b542bfd859070d020c2542d8ab4d9cd",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/tata-salt.png": "9ea11c9c09481b1de0c5bc361ffb9a16cd980c9b",
+    "https://farhaakram94.github.io/mobiotics-shop/assets/product-images/tropicana-juice.png": "cf27bd63c6e40554a75f9ac1f5474b3d3839b0bd",
+    "https://farhaakram94.github.io/mobiotics-shop/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://farhaakram94.github.io/mobiotics-shop/index.html": "e76e299844b433f05ed8fe7fd80887dbf20d4031",
+    "https://farhaakram94.github.io/mobiotics-shop/main-es2015.31d535e15ad28cadbf9f.js": "af0be82056589fa8cfe9381292fe4cccd0fe5b7b",
+    "https://farhaakram94.github.io/mobiotics-shop/main-es5.31d535e15ad28cadbf9f.js": "53fd32d61cd239d41fb04b34e1cd95250e8f1291",
+    "https://farhaakram94.github.io/mobiotics-shop/manifest.webmanifest": "d6ee907e591d9a10b76d2148d6f3b5d61395be43",
+    "https://farhaakram94.github.io/mobiotics-shop/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "https://farhaakram94.github.io/mobiotics-shop/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
+    "https://farhaakram94.github.io/mobiotics-shop/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://farhaakram94.github.io/mobiotics-shop/runtime-es5.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://farhaakram94.github.io/mobiotics-shop/styles.09043bb43a33de8cd0fa.css": "feb58ef360c05437ca50a02792acfdb49f6a71ea"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
