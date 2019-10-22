@@ -1,0 +1,123 @@
+[
+  {
+    "brand" : "Tata Salt",
+    "product": "Tata Salt",
+    "quantity": 0,
+    "price": 63,
+    "mrp": 70,
+    "discount" : 10,
+    "image": "tata-salt",
+    "amount" : 0,
+"weight" :1,
+"measure":"Kg"
+  },
+ {
+    "brand" : "Tropicana Juice",
+    "product": "Tropicana Mango Juice",
+    "quantity": 0, 
+    "price": 75,
+    "mrp": 100,
+    "discount" : 25,
+    "image": "tropicana-juice",
+    "amount" : 0,
+"weight" : 1,
+"measure": "L"
+  },
+  {
+    "brand" : "California Almonds",
+    "product": "California Almonds",
+    "quantity": 0, 
+    "price": 400,
+    "mrp": 500,
+    "discount" : 20,
+    "image": "california-almonds",
+    "amount" : 0,
+"weight" : 1,
+"measure": "Kg"
+  },
+  {
+    "brand" : "Amul Cheese",
+    "product": "Amul Cheese Block",
+    "quantity": 0, 
+    "price": 150,
+    "mrp": 300,
+    "discount" : 50,
+    "image": "amul-cheese",
+    "amount" : 0,
+"weight" : 1,
+"measure": "Kg"
+  },
+  {
+    "brand" : "Amul Ghee",
+    "product": "Amul Ghee Jar ",
+    "quantity": 0, 
+    "price": 250,
+    "mrp": 300,
+    "discount" : 17,
+    "image": "amul-ghee",
+    "amount" : 0,
+"weight" : 1,
+"measure": "L"
+  },
+  {
+    "brand" : "Ashirvaad Atta",
+    "product": "Ashirvaad Atta",
+    "quantity": 0, 
+    "price": 300,
+    "mrp": 600,
+    "discount" : 50,
+    "image": "ashirvaad-atta",
+    "amount" : 0,
+"weight" : 10,
+"measure": "Kg"
+  },
+  {
+    "brand" : "Dabur Honey",
+    "product": "Dabur Honey ",
+    "quantity": 0, 
+    "price": 150,
+    "mrp": 300,
+    "discount" : 50,
+    "image": "dabur-honey",
+    "amount" : 0,
+"weight" : 1,
+"measure": "L"
+  },
+  {
+    "brand" : "Kelloggs Chocos",
+    "product": "Kelloggs Chocos",
+    "quantity": 0, 
+    "price": 200,
+    "mrp": 400,
+    "discount" : 50,
+    "image": "kellogs-chocos",
+    "amount" : 0,
+"weight" : 1,
+"measure": "Kg"
+  },
+  {
+    "brand" : "Nestle Milkmaid",
+    "product": "Nestle Milkmaid ",
+    "quantity": 0, 
+    "price": 75,
+    "mrp": 100,
+    "discount" : 25,
+    "image": "nestle-milkmaid",
+    "amount" : 0,
+"weight" : 100,
+"measure": "Ml"
+  },
+  {
+    "brand" : "Parry's Sugar",
+    "product": "Parry's Sugar",
+    "quantity": 0, 
+    "price": 50,
+    "mrp": 100,
+    "discount" : 50,
+    "image": "parrys-sugar",
+    "amount" : 0,
+"weight" : 1,
+"measure": "Kg"
+  }
+]
+
